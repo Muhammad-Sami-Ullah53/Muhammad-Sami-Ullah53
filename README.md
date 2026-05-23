@@ -1,25 +1,48 @@
 <h1 align="center">Hi 👋, I'm Muhammad Sami Ullah</h1>
-<h3 align="center">AI/ML Engineer • Data Scientist • Python Developer • C++ Programmer</h3>
+
+<h3 align="center">
+AI/ML Engineer • Data Scientist • Python Developer • C++ Programmer
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+%26+Machine+Learning+Enthusiast;Data+Science+%7C+Computer+Vision+Developer;Python+Backend+Developer;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+%26+Machine+Learning+Enthusiast;Data+Science+%7C+Computer+Vision+Developer;Python+Backend+Developer;Always+Learning+New+Technologies" />
+</p>
+
+<p align="center">
+<a href="https://github.com/Muhammad-Sami-Ullah53">
+<img src="https://img.shields.io/github/followers/Muhammad-Sami-Ullah53?label=Followers&style=for-the-badge&color=00C853&logo=github"/>
+</a>
+
+<a href="https://github.com/Muhammad-Sami-Ullah53">
+<img src="https://img.shields.io/github/stars/Muhammad-Sami-Ullah53?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=00C853&logo=github"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=Muhammad-Sami-Ullah53&label=Profile%20Views&style=for-the-badge&color=00C853"/>
 </p>
 
 ---
 
 # 💫 About Me
 
-🔭 Building intelligent applications using **Python, TensorFlow, OpenCV, Pandas, NumPy & Scikit-learn**
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-🤝 Open to collaborating on **AI/ML, Data Science, Computer Vision, and Backend Development**
+🔭 Currently building intelligent applications using  
+**Python, TensorFlow, OpenCV, Pandas, NumPy & Scikit-learn**
 
-🛠️ Exploring **Deep Learning, scalable architectures, optimization & system design**
+🤝 Open to collaborating on  
+**AI/ML • Data Science • Computer Vision • Backend Systems**
 
-🌱 Currently learning **PyTorch, Advanced ML, SQL, APIs, and Production AI Systems**
+🛠️ Exploring  
+**Deep Learning • Scalable Architectures • APIs • Optimization**
 
-💬 Ask me about **Python, C++, OOP, Data Analysis, Visualization, Automation & Machine Learning**
+🌱 Currently learning  
+**PyTorch • Advanced ML • SQL • System Design**
 
-⚡ Fun Fact: *I love transforming raw data into intelligent real-world solutions*
+💬 Ask me about  
+**Python • C++ • OOP • Data Analysis • Visualization • Automation**
+
+⚡ Fun Fact  
+**I enjoy transforming raw data into intelligent real-world applications**
 
 ---
 
@@ -45,108 +68,124 @@
 
 ---
 
-# 💻 Tech Stack
+# 💻 Tech Arsenal
 
-## 🚀 Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+### 🚀 Languages
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=green)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=green)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=green)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=green)
 
-## 🌐 Frontend & Backend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+### 🌐 Frontend & Backend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=green)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=green)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=green)
 
-## 🤖 AI / ML / Data Science
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+### 🤖 AI / ML / Data Science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=green)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=green)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=green)
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=green)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=green)
 
-## 📊 Data Analysis & Visualization
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black)
+### 📊 Data Analytics
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=green)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=green)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=plotly&logoColor=green)
 
-## 🗄️ Databases & Tools
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+### 🗄️ Databases & Tools
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=green)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=green)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=green)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=green)
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Statistics
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Sami-Ullah53&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Sami-Ullah53&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Sami-Ullah53&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Sami-Ullah53&layout=compact&theme=chartreuse-dark&hide_border=true"/>
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+# 🔥 Contribution Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Muhammad-Sami-Ullah53&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Muhammad-Sami-Ullah53&theme=chartreuse-dark&hide_border=true"/>
 </p>
 
 ---
 
 # 📈 Contribution Graph
 
-[![Sami's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Sami-Ullah53&theme=tokyo-night)](https://github.com/Muhammad-Sami-Ullah53)
-
----
-
-# 🏆 GitHub Trophies
-
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Sami-Ullah53&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Sami-Ullah53&theme=chartreuse-dark&hide_border=true"/>
 </p>
 
 ---
 
-# ⚡ Profile Views
+# 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Muhammad-Sami-Ullah53&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Sami-Ullah53&theme=matrix&no-frame=true&no-bg=true&margin-w=8"/>
 </p>
 
 ---
 
-# ✍️ Dev Quote
+# 🚀 Current Focus
 
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
+```python
+class MuhammadSamiUllah:
 
----
+    def __init__(self):
+        self.role = "AI/ML Engineer"
+        self.languages = ["Python", "C++", "R"]
+        self.interests = [
+            "Machine Learning",
+            "Deep Learning",
+            "Computer Vision",
+            "Backend Development",
+            "Data Science"
+        ]
 
-# 🐍 Contribution Snake Animation
-
-```yaml
-# Add this in .github/workflows/snake.yml
+    def life_goal(self):
+        return "Building intelligent systems that solve real-world problems"
 ```
 
+---
+
+# 📌 Featured Projects
+
+⭐ AI Powered Desktop Assistant  
+⭐ Fake News Detection System  
+⭐ Credit Scoring ML Model  
+⭐ Computer Vision Applications  
+⭐ Data Visualization Dashboards  
+⭐ OOP Management Systems in C++
+
+---
+
+# ✍️ Developer Quote
+
 <p align="center">
-<img src="https://raw.githubusercontent.com/Muhammad-Sami-Ullah53/Muhammad-Sami-Ullah53/output/snake.svg" alt="Snake animation" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark"/>
 </p>
 
 ---
 
-# 🚀 Featured Projects
+# 🎯 2026 Goals
 
-🔹 AI Powered Desktop Assistant  
-🔹 Fake News Detection System using ML  
-🔹 Credit Scoring Prediction Model  
-🔹 Computer Vision Applications with OpenCV  
-🔹 Data Visualization Dashboards  
-🔹 OOP Based Management Systems in C++
+✔ Build production-ready AI applications  
+✔ Master Deep Learning & MLOps  
+✔ Contribute to Open Source  
+✔ Create scalable backend systems  
+✔ Publish high-quality ML projects
 
 ---
 
-<h3 align="center">⭐ Turning Data Into Intelligence ⭐</h3>
+<h3 align="center">
+⭐ Turning Data Into Intelligence ⭐
+</h3>
