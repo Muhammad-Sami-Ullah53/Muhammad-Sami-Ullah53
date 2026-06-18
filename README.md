@@ -159,7 +159,11 @@ AI/ML Engineer & Data Scientist focused on building intelligent, real-world syst
 ---
 
 
+# 🟩 Contribution Heatmap
 
+<p align="center">
+  <img src="https://ghchart.rshah.org/Muhammad-Sami-Ullah53" />
+</p>
 
 # 📊 GitHub Statistics
 
