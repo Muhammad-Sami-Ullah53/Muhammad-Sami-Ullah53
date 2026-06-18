@@ -1,8 +1,14 @@
-<h1 align="center">Hi 👋, I'm Muhammad Sami Ullah</h1>
+<div align="center">
 
-<h3 align="center">
-AI/ML Engineer • Data Scientist • Python Developer • C++ Programmer
-</h3>
+<h1 style="font-size: 42px; font-weight: 800; color: #0F172A; margin-bottom: 10px;">
+  Muhammad Sami Ullah
+</h1>
+
+<p style="font-size: 18px; color: #475569; font-weight: 500;">
+  AI/ML Engineer • Data Scientist • Python Developer • C++ Programmer
+</p>
+
+</div>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+%26+Machine+Learning+Enthusiast;Data+Science+%7C+Computer+Vision+Developer;Python+Backend+Developer;Always+Learning+New+Technologies" />
@@ -24,27 +30,49 @@ AI/ML Engineer • Data Scientist • Python Developer • C++ Programmer
 
 # 💫 About Me
 
-<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-🔭 Currently building intelligent applications using  
-**Python, TensorFlow, OpenCV, Pandas, NumPy & Scikit-learn**
-
-🤝 Open to collaborating on  
-**AI/ML • Data Science • Computer Vision • Backend Systems**
-
-🛠️ Exploring  
-**Deep Learning • Scalable Architectures • APIs • Optimization**
-
-🌱 Currently learning  
-**PyTorch • Advanced ML • SQL • System Design**
-
-💬 Ask me about  
-**Python • C++ • OOP • Data Analysis • Visualization • Automation**
-
-⚡ Fun Fact  
-**I enjoy transforming raw data into intelligent real-world applications**
+👋 Hi, I’m **Muhammad Sami Ullah**  
+AI/ML Engineer & Data Scientist focused on building intelligent, real-world systems.
 
 ---
+
+## 🧠 Core Expertise
+- Machine Learning & Deep Learning  
+- Computer Vision & Data Science  
+- Python & C++ Development  
+- Backend Systems & APIs  
+
+---
+
+## ⚙️ What I Build
+- AI-powered applications  
+- Data-driven intelligent systems  
+- Automation & optimization tools  
+- Computer vision solutions  
+
+---
+
+## 📈 Current Focus
+- Advanced Deep Learning (PyTorch)  
+- Scalable AI System Design  
+- Production-level ML applications  
+- Data Engineering fundamentals  
+
+---
+
+## 🎯 Mindset
+> Build simple. Think deeply. Solve real problems with AI.
+
+---
+
+---
+
+## 📈Learnings
+- 2023 → Started Programming (C)
+- 2024 → Learned Python & C++
+- 2025 → AI/ML & Data Science Projects
+- 2026 → Deep Learning + Production AI Systems
 
 # 🌐 Connect With Me
 
@@ -127,11 +155,11 @@ AI/ML Engineer • Data Scientist • Python Developer • C++ Programmer
 
 ---
 
+
+
 # 🏆 GitHub Achievements
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Sami-Ullah53&theme=matrix&no-frame=true&no-bg=true&margin-w=8"/>
-</p>
+<p align="center"> <img src="https://img.shields.io/badge/AI%20Engineer-Active-blue?style=for-the-badge"/> <img src="https://img.shields.io/badge/Open%20Source-Contributor-success?style=for-the-badge"/> <img src="https://img.shields.io/badge/Problem%20Solver-Consistent-orange?style=for-the-badge"/> <img src="https://img.shields.io/badge/Lifelong%20Learner-Yes-important?style=for-the-badge"/> </p>
 
 ---
 
@@ -189,3 +217,48 @@ class MuhammadSamiUllah:
 <h3 align="center">
 ⭐ Turning Data Into Intelligence ⭐
 </h3>
+---
+
+# 📊 GitHub Activity Summary
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muhammad-Sami-Ullah53&theme=github_dark"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Muhammad-Sami-Ullah53&theme=github_dark"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Muhammad-Sami-Ullah53&theme=github_dark"/>
+
+</p>
+
+---
+
+# 🧠 AI Neural Interest Map
+
+```mermaid
+mindmap
+  root((AI Engineer))
+
+    Machine Learning
+      Supervised Learning
+      Unsupervised Learning
+
+    Deep Learning
+      Neural Networks
+      CNN
+      RNN
+
+    Computer Vision
+      Object Detection
+      Image Classification
+      OCR
+
+    NLP
+      Chatbots
+      LLMs
+      Sentiment Analysis
+
+    Backend Development
+      APIs
+      FastAPI
+      Databases
