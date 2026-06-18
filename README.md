@@ -95,38 +95,67 @@ AI/ML Engineer & Data Scientist focused on building intelligent, real-world syst
 </p>
 
 ---
-
 # 💻 Tech Arsenal
 
-### 🚀 Languages
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=green)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=green)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=green)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=green)
+---
 
-### 🌐 Frontend & Backend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=green)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=green)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=green)
+## 🐍 Programming Languages
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,c,cpp,r" />
+</p>
 
-### 🤖 AI / ML / Data Science
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=green)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=green)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=green)
-![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=green)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=green)
+---
 
-### 📊 Data Analytics
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=green)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=green)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=plotly&logoColor=green)
+## 🤖 AI / Machine Learning
+<p align="center">
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
+</p>
 
-### 🗄️ Databases & Tools
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=green)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=green)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=green)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=green)
+<p align="center">
+<img src="https://img.shields.io/badge/Machine%20Learning-Strong-0EA5E9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-Intermediate-1E3A8A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-Strong-0F172A?style=for-the-badge"/>
+</p>
 
+---
+
+## 📊 Data Science & Analytics
+<p align="center">
+
+<img src="https://img.shields.io/badge/NumPy-Advanced-0EA5E9?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-Advanced-1E3A8A?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-Intermediate-0F172A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Seaborn-Intermediate-64748B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Analysis-Strong-0EA5E9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Visualization-Strong-1E3A8A?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 🌐 Web Basics
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Web%20Development-Basic-0EA5E9?style=for-the-badge"/>
+</p>
+
+---
+
+## 🧰 Developer Tools
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,linux" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Git-Version%20Control-0EA5E9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GitHub-Collaboration-1E3A8A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/VS%20Code-IDE-0F172A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Jupyter-Notebook-64748B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Google%20Colab-Cloud%20ML-0EA5E9?style=for-the-badge"/>
+</p>
 ---
 
 # 📊 GitHub Statistics
