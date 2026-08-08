@@ -165,14 +165,6 @@ AI/ML Engineer & Data Scientist focused on building intelligent, real-world syst
   <img src="https://ghchart.rshah.org/Muhammad-Sami-Ullah53" />
 </p>
 
-# 📊 GitHub Statistics
-
-<p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Sami-Ullah53&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Sami-Ullah53&layout=compact&theme=chartreuse-dark&hide_border=true"/>
-</p>
-
 ---
 
 # 🔥 Contribution Streak
