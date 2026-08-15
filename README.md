@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1 style="font-size: 42px; font-weight: 800; color: #0F172A; margin-bottom: 10px;">
-  Muhammad Sami Ullah
+  M Sami Ullah Sarfraz
 </h1>
 
 <p style="font-size: 18px; color: #475569; font-weight: 500;">
